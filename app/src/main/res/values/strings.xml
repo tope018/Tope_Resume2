@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nick Tope\'s Resume</string>
+    <string name="skillsButtonText">Skills</string>
+    <string name="short_bio">This is a short bio about me. This is a short bio about me.
+        This is a short bio about me. This is a short bio about me.
+        This is a short bio about me. This is a short bio about me.
+        This is a short bio about me. This is a short bio about me.
+        This is a short bio about me. This is a short bio about me.
+        This is a short bio about me. This is a short bio about me.
+    </string>
+    <string name="nextButtonText">Next</string>
+    <string name="previousButtonText">Previous</string>
+    <string name="menu_light">Light Theme</string>
+    <string name="menu_dark">Dark Theme</string>
+</resources>

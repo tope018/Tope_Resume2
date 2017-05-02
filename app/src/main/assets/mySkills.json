@@ -1,0 +1,17 @@
+
+{
+  "skillsArray":[
+    {
+      "skillName":"Java",
+      "skillDescription":"I know Java"
+    },
+    {
+      "skillName":"Python",
+      "skillDescription":"I know Python"
+    },
+    {
+      "skillName":"C++",
+      "skillDescription":"I know C++"
+    }
+  ]
+}
